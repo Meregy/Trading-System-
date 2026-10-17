@@ -1,0 +1,15 @@
+{
+  "ticker": "TSLA",
+  "start": "2021-10-17",
+  "end_exclusive": "2026-10-17",
+  "interval": "1d",
+  "auto_adjust": false,
+  "yfinance_version": "1.7.0",
+  "status": "success",
+  "trading_sessions": 1255,
+  "first_session": "2021-10-18",
+  "latest_session": "2026-10-16",
+  "latest_close_usd": 354.7200012207031,
+  "csv_verified": true,
+  "png_verified": true
+}
